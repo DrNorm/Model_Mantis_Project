@@ -1,0 +1,9 @@
+
+ampoule : materiaux verre : marche pas avec skydome
+
+boite a musique : extrude with keep faces together off
+
+articulation comme bionicle
+
+que faire pour la tête?
+
